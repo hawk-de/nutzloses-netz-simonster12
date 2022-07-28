@@ -109,7 +109,7 @@ body {
 
     position: fixed;
     left: 20vh;
-    top: 63vh;
+    top: 53vh;
 
     background-image: url(sprites/230x230/C_inact_230.png);
     
@@ -125,7 +125,7 @@ body {
 
     position: fixed;
     left: 40vh;
-    top: 62vh;
+    top: 52vh;
     
     background-image: url(sprites/230x230/D_inact_230.png);
     
@@ -141,7 +141,7 @@ body {
 
     position: fixed;
     left: 60vh;
-    top: 61vh;
+    top: 51vh;
     
     background-image: url(sprites/230x230/E_inact_230.png);
     
@@ -157,7 +157,7 @@ body {
 
     position: fixed;
     left: 80vh;
-    top: 60vh;
+    top: 50vh;
     
     background-image: url(sprites/230x230/F_inact_230.png);
     
@@ -173,7 +173,7 @@ body {
 
     position: fixed;
     left: 100vh;
-    top: 60vh;
+    top: 50vh;
     
     background-image: url(sprites/230x230/G_inact_230.png);
     
@@ -189,7 +189,7 @@ body {
 
     position: fixed;
     left: 120vh;
-    top: 61vh;
+    top: 51vh;
     
     background-image: url(sprites/230x230/A_inact_230.png);
     
@@ -205,7 +205,7 @@ body {
 
     position: fixed;
     left: 140vh;
-    top: 62vh;
+    top: 52vh;
     
     background-image: url(sprites/230x230/H_inact_230.png);
     
@@ -221,7 +221,7 @@ body {
 
     position: fixed;
     left: 160vh;
-    top: 63vh;
+    top: 53vh;
     
     background-image: url(sprites/230x230/C1_inact_230.png);
     
